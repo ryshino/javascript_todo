@@ -63,3 +63,5 @@ function saveData() {
 
   localStorage.setItem("todos", JSON.stringify(todos));
 }
+
+window.alert('ヤッホー!')
